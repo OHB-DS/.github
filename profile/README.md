@@ -1,8 +1,11 @@
 # OHB-DS Code Repo
 
-This organisation contains all the code repositories developed by OHB-DS.
+Home to the code repositories developed by OHB-DS Earth Observation Team.
 
-When creating a new repository use the naming convention: `ProjectName-RepoType` (e.g. `UrbanView-Frontend` or `Oceanids-Backend`)
+<img src="https://github.com/user-attachments/assets/e1c33a53-7e86-4df6-8ecd-63918a57d132" width="300">
 
-<img src="https://github.com/user-attachments/assets/e1c33a53-7e86-4df6-8ecd-63918a57d132" width="400">
+
+### Naming Conventions 
+- Repo names: `ProjectName-RepoType` (e.g. `UrbanView-Frontend` or `Oceanids-Backend`)
+
 
