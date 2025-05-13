@@ -8,4 +8,5 @@ Home to the code repositories developed by OHB-DS Earth Observation Team.
 ### Naming Conventions 
 - Repo names: `ProjectName-RepoType` (e.g. `UrbanView-Frontend` or `Oceanids-Backend`)
 
+This makes it easier to filter the repos by project or by function
 
